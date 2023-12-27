@@ -34,7 +34,7 @@ pip install numpy pandas matplotlib scikit-learn
 ```
 
 ## Usage
-Run the Jupyter notebook Chang_Chang(Cici)_HW2.ipynb to perform the analysis. The notebook contains detailed instructions and code for each step of the project.
+Run the Jupyter notebook Linear_Regression_and_KNN_Cici_Chang.ipynb to perform the analysis. The notebook contains detailed instructions and code for each step of the project.
 
 ## Contributing
 Contributions are welcome. Please ensure that any enhancements or bug fixes are accompanied by appropriate test cases.
