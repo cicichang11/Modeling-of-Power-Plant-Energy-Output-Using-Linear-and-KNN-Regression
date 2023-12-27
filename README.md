@@ -29,9 +29,9 @@ Libraries: numpy, pandas, matplotlib, scikit-learn
 ## Installation
 To set up the project environment, install the required libraries:
 
-/// bash
+```bash
 pip install numpy pandas matplotlib scikit-learn
-///
+```
 
 ## Usage
 Run the Jupyter notebook Chang_Chang(Cici)_HW2.ipynb to perform the analysis. The notebook contains detailed instructions and code for each step of the project.
